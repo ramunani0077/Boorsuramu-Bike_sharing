@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+Bike Sharing Linear Regression Assignment
 
 
 ## Table of Contents
@@ -11,38 +11,42 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Project Information 
+This project is a Linear Regression project. It uses Bike Sharing data set to predict bike sharing metricks.
+  Problem Statement
+         A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
+        Nedd to do a complete analysis where bike sharing is happining more and less
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+  After Analysis found below Points
+        A) Bike demand in the fall is the highest. 
+        B) Bike demand in year 2019 is higher as compared to 2018. 
+        C) The demand of bike is almost similar throughout the weekdays. 
+        D) Bike demand doesn’t change whether day is working day or not
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+1) Numpy 
+2) Pandas 
+3) Seaborn 
+4) Matplotlib 
+5) sklearn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by UpGrad(IIITB) in AI/ML Executive Post Graduate course as a case study
+- This project was based on (https://learn.upgrad.com/course/5800/segment/52631/312290/946791/4725024).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ramunani0077] - feel free to contact me!
 
 
 <!-- Optional -->
